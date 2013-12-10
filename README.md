@@ -1,4 +1,4 @@
 pyTries
 =======
 
-A pure python implementation of diverse trie structures
+Experiences with Trie structure in pure python.

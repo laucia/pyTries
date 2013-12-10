@@ -7,8 +7,8 @@ setup(
     author          = 'Lauris Jullien',
     author_email    = 'lauris.jullien@gmail.com',
     url             = 'https://github.com/laucia/pyTries',
-    description     = 'A pure python implementation of diverse trie structures for autocompletion problems',
-    long_description= 'A pure python implementation of diverse trie structures',
+    description     = 'Experiences with Trie structure in pure python.',
+    long_description= 'Experiences with Trie structure in pure python.',
     classifiers     = [
         'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',

@@ -1,1 +1,1 @@
-from naivetries import Trie
+from trie import Trie
